@@ -1,0 +1,78 @@
+
+.nav {
+
+    display: flex;
+    background-color: rgb(17, 16, 73);
+    color: white;
+    align-items: center;
+    }
+    .nav img {
+    margin: 0 30px;
+    }
+    *nav {
+    width: 100%;
+    float:left;
+     background: #ff5722;
+     padding:15px 0px;
+    }
+    nav a {
+        color: black;
+        text-decoration: none;
+        font-size: 17px;
+        border-right: 1px solid #ffc3c3;
+        padding:2px 20px;
+    }
+    .about-us img {
+        width:24%;
+        float:left;
+   }
+    .about-us div {
+        width:70%;
+        margin-left:20px;
+        float:left;
+        line-height:35px;
+   }
+   .placement img {
+    border:1px solid #dfdfdf;
+   }
+    .footer {
+        background-color:#1f2836;
+        padding:70px 0px;
+        width:100%;
+        float:left;
+   }
+   .footer {
+    background-color: burlywood;
+    padding:70px 0px;
+    width:100%;
+    float:left;
+}
+.footer-sect {
+    width:33%;
+    float:left;
+}
+.footer-sect h2 {
+    color:#fff;
+    margin-bottom: 20px;
+}
+.footer-sect p {
+    color: #dfdfdf;
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+}
+.footer-menu li {
+    color: #dfdfdf;
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+}
+.footer-menu li a {
+    color:#fff;
+    text-decoration: none;
+}
+.footer-contact li {
+    margin-bottom:15px;
+    list-style: none;
+    color: #fff;
+}
